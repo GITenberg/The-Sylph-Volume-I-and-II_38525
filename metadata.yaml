@@ -1,0 +1,32 @@
+_repo: The-Sylph-Volume-I-and-II_38525
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cavendish, Georgiana Spencer, Duchess of Devonshire
+    aliases:
+    - Georgiana, Duchess of Devonshire
+    - Devonshire, Georgiana Spencer Cavendish, Duchess of
+    - Spencer, Georgiana
+    birthdate: 1757
+    deathdate: 1806
+    gutenberg_agent_id: '39515'
+    url: http://www.gutenberg.org/2009/agents/39515
+description: ''
+gutenberg_issued: '2012-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Guardian angels -- Fiction'
+- !lcsh 'Welsh -- England -- Fiction'
+- !lcsh 'Epistolary fiction'
+title: The Sylph, Volume I and II
+url: http://www.gutenberg.org/ebooks/38525
