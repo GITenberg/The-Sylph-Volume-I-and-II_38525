@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '39515'
     url: http://www.gutenberg.org/2009/agents/39515
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38525#The-Sylph-Volume-I-and-II
 gutenberg_issued: '2012-01-08'
 gutenberg_type: Text
 identifiers:
